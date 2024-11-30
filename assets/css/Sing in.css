@@ -1,0 +1,175 @@
+.Fisrt{
+    padding: 31px 0px 0px;
+}
+.ACE{
+    color: black !important;
+    font-family: sans-serif;
+    font-weight: 800;
+    position: relative;
+}
+.Sing{
+    padding: 2px;
+}
+.fa-angle-right{
+    font-size: 6px;
+    color: #007bff;
+    position: absolute;
+    top: 11px;
+    left: 39px;
+}
+h1{
+    margin: 0px;
+    padding: 21px 0px;
+    font-family: sans-serif;
+    font-weight: 600;
+}
+.row{
+    justify-content: center;
+}
+.left{
+    height: 100%;
+}
+.Brow{
+    padding: 40px;
+    background-color: #F5F7FF;
+}
+h2{
+    font-size: 26px !important;
+    font-family: sans-serif !important;
+    font-weight: 600 !important;
+    padding-bottom: 5px;
+    margin: 0px;
+}
+.Eye{
+    font-size: 16px;
+    font-family: sans-serif;
+    padding-bottom: 25px;
+    margin: 0px;
+}
+.rester{
+    padding: 56px 40px;
+}
+.Draw{
+    display: grid;
+    position: relative;
+    bottom: 11px;
+}
+.ruler{
+    font-family: sans-serif;
+    font-weight: 600;
+}
+.fa-asterisk{
+    position: absolute;
+    top: 4px;
+    left: 50px;
+    color: red;
+}
+.Drow{
+    display: grid;
+    position: relative;
+    padding-bottom: 27px;
+}
+.garden{
+    position: absolute;
+    top: 4px;
+    left: 79px;
+    color: red;
+}
+.master{
+    border-radius: 4px;
+    border: 2px solid #A2A6B0;
+    box-sizing: border-box;
+    height: 50px;
+    padding: 0 17px;
+    font-size: 17px;
+    font-family: sans-serif;
+}
+.master:focus{
+    border: 2px solid #A2A6B0;
+    outline: #A2A6B0;
+    box-shadow: 0 0 6px #d3d5db;
+}
+.Mie{
+    color: #FFFFFF;
+    background: #40AD87;
+    border-radius: 50px;
+    border: 1px solid #1abc9c;
+    width: 147px;
+    height: 48px;
+    font-size: 17px;
+    font-family: sans-serif;
+    font-weight: 600;
+}
+.Mie:focus{
+    background-color: #1abc9c;
+    border-color: #1abc9c;
+    outline: none;
+}
+.Mie:hover{
+    cursor: pointer;;
+}
+.Forget{
+    color: #1abc9c !important;
+}
+.Forget:hover{
+    cursor: pointer;
+    text-decoration: underline !important;
+}
+.on-in{
+    height: 100%;
+}
+.on-at{
+    padding-bottom: 18px;
+}
+.small{
+    padding-bottom: 28px;
+    font-size: 17px !important;
+    font-family: sans-serif;
+}
+.in-at{
+    width: 200px;
+    font-size: 15px;
+    height: 50px;
+}
+.Herbar{
+    text-align: center;
+    padding: 65px 0px;
+}
+.mun-mis{
+    margin-right: -50px !important;
+    margin-left: 5px !important;
+}
+.miss{
+    padding: 0px 40px;
+}
+.sneck{
+    border-radius: 100%;
+    border: 1px solid #1abc9c;
+    background: #40AD87;
+    display: inline-flex;
+    height: 59px;
+    width: 59px;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 28px;
+}
+h3{
+    font-family: sans-serif;
+    font-weight: 600;
+}
+.BHK{
+    font-size: 20px;
+    font-family: sans-serif;
+}
+
+
+@media screen and (max-width: 992px){
+    .right{
+        margin-top: 50px;
+    }
+}
+
+
+
+
+

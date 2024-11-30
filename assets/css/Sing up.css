@@ -1,0 +1,66 @@
+.mun{
+    position: absolute;
+    top: 4px;
+    left: 183px;
+    color: red;
+}
+.gardon{
+    position: absolute;
+    top: 2px;
+    left: 145px;
+    color: red;
+}
+.Mo{
+    position: relative;
+}
+.fa-check-square{
+    position: absolute;
+    color: #37ceb0 !important;
+    font-size: 26px;
+}
+.Forgut{
+    padding: 0px 42px;
+}
+.pane{
+    color: #1abc9c !important;
+}
+.in-off{
+    width: 138px;
+    font-size: 15px;
+    height: 48px;
+}
+.inter{
+    display: flex;
+}
+.gle{
+    padding: 0px 18px;
+    display: flex;
+    align-items: center;
+}
+.GF{
+    padding: 8px;
+    border-radius: 4px;
+    display: flex;
+    align-items: center;
+    background-color: #fff;
+    border: 1px solid #fff;
+}
+.oo{
+    width: 30px;
+    margin-right: 7px;
+}
+.Up{
+    font-size: 12px;
+    font-family: sans-serif;
+}
+.fa-facebook{
+    font-size: 29px;
+    color: #385898;
+    margin-right: 9px;
+}
+.Forgot{
+    text-align: -webkit-center;
+    padding: 32px;
+    font-size: 17px;
+    font-family: sans-serif;
+}

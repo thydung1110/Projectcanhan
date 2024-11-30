@@ -1,0 +1,77 @@
+body{
+    background: rgba(166, 238, 199, 1) !important;
+}
+.plent{
+    display: flex;
+    padding: 24px 40px;
+    justify-content: space-between;
+}
+.in-up{
+    background: rgba(166, 238, 199, 1);
+    border: 1px solid #ffff;
+    color: white;
+    font-size: 20px;
+    font-family: sans-serif;
+    padding: 6px;
+    border-radius: 40px;
+    width: 135px;
+}
+.in-up:hover{
+    cursor: pointer;
+}
+.in-op{
+    margin-left: 40px;
+    background: rgba(166, 238, 199, 1);
+    border: 1px;
+    color: white;
+    font-size: 20px;
+    font-family: sans-serif;
+}
+.main{
+    display: flex !important;
+}
+.pt{
+    margin: auto;
+}
+small{
+    color: white;
+}
+h1{
+    color: white !important;
+    font-size: 60px !important;
+    font-family: sans-serif !important;
+    font-weight: 600 !important;
+    padding-top: 19px;
+}
+p{
+    color: white;
+    font-size: 26px;
+}
+.white{
+    text-transform: none;
+    background-color: white;
+    border: 1px solid #ffff;
+    padding: 23px;
+    width: 256px;
+    border-radius: 10px;
+    font-size: 26px;
+    color: rgba(166, 238, 199, 1);
+    font-family: sans-serif;
+    font-weight: 600;
+}
+.white:hover{
+    cursor: pointer;
+}
+.white:focus{
+    border: 1px solid #ffff;
+    outline: none;
+}
+.tuer{
+    width: 35rem ;
+}
+ @media screen and ( max-width: 992) {
+     .Fish-icon {
+        display: none;
+    }
+     
+ }

@@ -1,0 +1,88 @@
+.Touch{
+    padding: 45px 0px;
+}
+.footer{
+    background: #020203;
+}
+h4{
+    color: white !important;
+    font-size: 29px !important;
+}
+.design{
+    background: #000000;
+    border: 2px solid #FFFFFF;
+    box-sizing: border-box;
+    border-radius: 4px;
+    width: 309px;
+    padding: 7px;
+    margin-right: 35px;
+}
+.account{
+    color: #FFFFFF;
+    background: #008254;
+    border-radius: 50px;
+    font-weight: 600;
+    font-size: 14px;
+    padding: 11px;
+    width: 118px;
+    border: 1px solid #008254;
+}
+.Dosir{ 
+    color: rgba(255, 255, 255, 0.5) !important;
+    padding: 0px 9px !important;
+    font-size: 13px;
+}
+.live{
+    color: rgba(255, 255, 255, 0.5); 
+}
+h5{
+    margin-bottom: 20px !important;
+}
+.entire{
+    justify-content: space-between;
+    padding-bottom: 15px;
+}
+.onon{
+    color: #FFFFFF !important;
+}
+.sea{
+    display: grid;
+}
+.flect{
+    margin: 0px;
+    color: #FFFFFF;
+}
+.even{
+    font-size: 13px;
+}
+.unme{
+    color: #008254;
+}
+.genuflect{
+    justify-content: space-between;
+    padding: 10px 9px;
+}
+.pun{
+    color: #FFFFFF;
+    font-weight: unset !important;
+    font-size: 13px;
+}
+
+@media screen and (max-width: 1200px){
+    .design{
+        margin-right: 8px;
+    }
+}
+
+@media screen and (max-width: 992px){
+    .design{
+        width: 504px;
+        margin-right: 35px;
+    }
+    .correc{
+        padding: 16px 19px;
+    }
+    .live{
+        padding: 14px;
+    }
+}

@@ -1,0 +1,145 @@
+body{
+    margin: 0px;
+}
+.Hea{
+    box-shadow: 0 0 6px #888888;
+    align-items: center !important;
+}
+.navbar-toggler-icon{
+    background-image: none !important;
+}
+.active{
+    padding: 14px;
+    position: relative;
+}
+.Flash{
+    width: 453px;
+    border-radius: 11px;
+    background-color: #eeee;
+    border: none;
+    height: 30px;
+    outline: none;
+    padding: 0px 31px;
+    font-size: 14px;
+    font-family: sans-serif;
+}
+.stop{
+    list-style: none;
+    display: flex;
+    padding: 0px;
+}
+.fiesh-ves{
+    padding: 12px;
+}
+.min-ni{
+    padding: 1px;
+}
+.navbar-collapse{
+    justify-content: space-evenly;
+}
+.navbar-nav{
+    display: -webkit-inline-box !important;
+}
+.text-white{
+    border: 2px solid #40AD87 !important;
+}
+.fa-search{
+    top: 23px;
+    position: absolute;
+    left: 23px;
+    font-size: 15px;
+}
+.House{
+    padding: 0px 18px;
+    color: black;
+    font-size: 19px;
+    font-weight: 500;
+    text-decoration: none;
+}
+.one{
+    padding: 7px 22px;
+}
+.frout{
+    padding: 7px 11px;
+}
+.fa-bars{
+    color: rgba(0, 0, 0, 0.5);
+    font-size: xx-large;
+    color: #40AD87;
+}
+
+
+@media screen and (max-width: 1288px){
+    .Flash {
+        width: 275px;
+    }
+    .fiesh-ves {
+        padding-top: 20px;
+    }
+    .min-ni{
+        padding-top: 12px;
+    }
+}
+@media screen and (max-width: 1260px){
+    .Flash {
+        width: 286px;
+    }
+    .one {
+        padding: 7px 13px;
+        width: 53px;
+    }  
+    .frout{
+        padding: 7px 13px;
+        width: 125px;
+    }
+}
+@media screen and (max-width: 1200px){
+    .Flash {
+        width: 310px;
+    }
+    .House {
+        padding: 0px 10px;
+    }
+    .one {
+        padding: 7px 8px;
+        width: 42px;
+    }  
+    .frout {
+        width: 115px;
+    }
+}
+@media screen and (max-width: 1045px){
+    .Flash {
+        width: 287px;
+    }
+    .House{
+        font-size: 16px;
+    }
+    .one{
+        width: 37px;
+    }
+    .frout{
+        width: 95px;
+    }
+}
+@media screen and (max-width: 992px){
+    .collapse {
+        text-align: center;
+    }
+    .Flash {
+        width: 568px;
+    }
+    .stop {
+        display: contents;
+    }
+    .fiesh-ves {
+        display: grid;
+        padding-top: 0px;
+    }
+    .min-ni{
+        display: none;
+    }
+}
+
+
+

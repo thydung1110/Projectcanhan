@@ -1,0 +1,357 @@
+.bun{
+    position: absolute;
+    top: 26px;
+    right: 205px;
+    width: 116px;
+}
+.one-man{
+    width: 135px;
+    top: 26px;
+    right: 44px;
+}
+.one-men{
+    top: 109px;
+    right: 223px;
+    width: 208px;
+ }
+.one-maan{
+    top: 203px;
+    right: 144px;
+    width: 89px;
+ }
+.one-meen{ 
+    top: 180px;
+    right: 0px;
+    width: 145px;
+}
+.Buy{
+    width: 100%;
+    position: relative;
+}
+.twel{
+    display: flex;
+    justify-content: space-between;
+}
+.carousel-control-prev{
+    justify-content: flex-start !important;
+    width: 30px !important;
+    background: #252931;
+    color: white;
+    height: 32px;
+    padding: 0px 5px;
+    border-radius: 0px 15px 15px 0px;
+    top: 117px !important;
+}
+.carousel-item {
+    padding: 0px !important;
+}
+.carousel-control-prev-icon{
+    width: 13px !important;
+    height: 14px !important;
+}
+.carousel-control-next{
+    justify-content: flex-end !important;
+    width: 30px !important;
+    background: #252931;
+    color: white;
+    height: 32px;
+    padding: 0px 5px;
+    border-radius: 15px 0px 0px 15px;
+    top: 117px !important;
+}
+.carousel-control-next-icon{
+    width: 13px !important;
+    height: 14px !important;
+}
+.wait{
+    padding: 0px !important;
+}
+.ping{
+    width: 100%;
+}
+.two{
+    padding: 33px 0px;
+    position: relative;
+}
+.two-2{
+    padding: 19px 0px;
+    position: relative;
+}
+.two-3{
+    padding: 19px 0px;
+    position: relative;
+}
+.two-4{
+    padding: 19px 0px;
+    position: relative;
+}
+.two-5{
+    padding: 19px 0px;
+    position: relative;
+}
+.sale{
+    position: absolute;
+    top: 19px;
+    font-family: sans-serif;
+    font-size: 29px;
+    color: #ffff;
+    font-weight: normal;
+    right: 401px;
+}
+.one-salo{  
+    top: 67px;
+    font-size: 25px;
+    right: 441px;
+    font-family: sans-serif;
+    font-weight: 600;
+}
+.one-sali{
+    font-weight: 800;
+    top: 97px;
+    color: red;
+    font-family: sans-serif;
+    font-size: 50px;
+    right: 475px;
+}
+.hot{
+    position: absolute;
+    top: 156px;
+    color: white;
+    left: 41px;
+    text-align: center;
+}
+.club{
+    margin: 0px 0 56px !important;
+    font-size: 22px;
+    font-family: sans-serif;
+    font-weight: 600;
+}
+.keep{
+    text-decoration: underline !important;
+    font-size: 13px;
+    font-family: inherit;
+}
+.category-one{
+    padding: 0px !important;
+}
+.Produce{
+    top: 12px;
+}
+.produce-eat{
+    top: 25px;
+}
+.one-mon{
+    font-size: 16px;
+    margin: 0 0 66px !important;
+}
+.cum{
+    width: 100%;
+}
+.cem{
+    width: 57%;
+}
+.revi{
+    font-size: 10px;
+    color: #A2A6B0;
+    font-family: sans-serif;
+}
+.Narow{
+    overflow: hidden;
+    display: -webkit-box !important;
+    font-size: 11px;
+    font-family: sans-serif;
+    color: black !important;
+}
+.Rea{
+    font-size: 16px;
+}
+.foot-one{
+    margin-bottom: 11px;
+}
+.dolar{
+    text-decoration: line-through;
+    color: #666666;
+    font-family: sans-serif;
+}
+.mess{
+    position: absolute;
+    right: 0px;
+    padding: 0px 55px;
+}
+.ger{
+    width: 100%;
+}
+.Big{
+    text-align: center;
+}
+.Narew{
+    font-weight: 700;
+    font-family: sans-serif;
+}
+
+
+
+
+
+@media screen and (max-width: 1200px){
+    .sale{
+        font-size: 24px;
+        right: 335px;
+    }
+    .one-salo{
+       font-size: 23px;
+       right: 355px;
+       top: 58px;   
+    }
+    .one-sali{
+        top: 90px;
+        font-size: 39px;
+        right: 401px;
+    }
+    .bun {
+        top: 41px;
+        right: 186px;
+        width: 116px;
+    }
+    .one-man{
+        width: 117px;
+        top: 30px;
+        right: 47px;
+    }
+    .one-men {
+        top: 137px;
+        right: 222px;
+        width: 121px;
+    }
+    .one-maan {
+        top: 176px;
+        right: 142px;
+        width: 71px;
+    }
+    .one-meen {
+        top: 147px;
+        right: 9px !important;
+        width: 125px;
+    }
+    .hot{
+        top: 137px;
+        left: 13px;
+    }
+    .club{
+        margin: 0 0 35px !important;
+        padding: 0px 23px;
+    }
+    .keep{
+        padding: 0px 19px;
+        font-size: 11px;
+    }
+    .contunt-1{
+        padding: 0px 8px;
+    }
+    .one-mon{
+        padding: 0px 8px;
+        font-size: 12px;
+        margin: 0 0 47px !important;
+    }
+    .cem {
+        width: 50%;
+    }
+}
+@media screen and (max-width: 992px){
+    .carousel-control-prev{
+        top: 72px !important;
+    }
+    .carousel-control-next{
+        top: 72px !important;
+    }
+    .fout-five{
+        display: none !important;
+    }
+    .hot{
+        top: 152px;
+        left: 21px;
+    }
+    .club{
+        margin: 0 0 55px !important;
+    }
+    .cem {
+        width: 56%;
+    }
+    .produce-eat {
+        top: 36px;
+    }
+    .Rea {
+        font-size: 12px;
+    }
+    .mess{
+        padding: 0px 24px;
+    }
+    .sale {
+        font-size: 18px;
+        right: 242px;
+    }
+    .bun{
+        right: 128px;
+        width: 83px;
+    }
+    .one-salo {
+        font-size: 16px;
+        right: 266px;
+        top: 54px;
+    }
+    .one-sali {
+        font-size: 22px;
+        right: 310px;
+        top: 86px;
+    }
+    .one-man {
+        width: 72px;
+        right: 39px;
+    }
+    .one-men {
+        top: 93px;
+        right: 153px;
+        width: 100px;
+    }
+    .one-maan{
+        top: 133px;
+        right: 103px;
+        width: 48px;
+    }
+    .one-meen {
+        top: 106px;
+        width: 95px;
+    }
+}
+@media screen and (max-width: 768px){
+    .sun-non{
+        display: none;
+    }
+}
+
+@media screen and (max-width: 576px){
+    .meet-1{
+        display: none;
+    }
+    .hot {
+        top: 186px;
+        left: 39px;
+    }
+    .club {
+        margin: 0 0 90px !important;
+        font-size: 34px;
+    }
+    .keep {
+
+        font-size: 18px;
+    }
+    .mess {
+        padding: 0px 0px;
+    }
+    .ger {
+        width: 64%;
+    }
+}
+
+
+

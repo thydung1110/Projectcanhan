@@ -1,0 +1,105 @@
+.active{
+    padding-top: 18px;
+    padding: 7px;
+}
+.Flash{
+    width: 515px;
+    border-radius: 11px;
+    background-color: #eeee;
+    border: none;
+    height: 30px;
+    outline: none;
+    padding: 0px 31px;
+    font-size: 14px;
+    font-family: sans-serif;
+}
+.Flash:focus{
+    outline: none;
+    box-shadow: 0 0 6px #eeee;
+    border: 1px solid #eeee;
+}
+.House{
+    color: black;
+    font-size: 19px;
+    font-family: sans-serif;
+    padding: 0 20px;
+}
+.one{
+    padding: 0 19px;
+}
+.fa-search{
+    position: absolute;
+    top: 25px;
+    color: rgba(111, 108, 108, 0.933);
+    left: 148px;
+}
+.stop{
+    display: flex;
+    list-style: none;
+    margin: 0px;
+}
+.min-no{
+    display: flex;
+}
+.uot{
+    padding: 0 16px;
+}
+.DN{
+    background: #E3FAF2;
+    border: 1px solid #E3FAF2;
+    border: 0px;
+    padding: 6px 20px;
+    border-radius: 9px;
+    outline: none;
+    color: rgba(64, 173, 135, 1);
+}
+.DN:hover{
+    cursor: pointer;
+}
+.DN:focus{
+    outline: none;
+    box-shadow: 0 0 6px rgb(142, 225, 196);
+    border: 1px solid #E3FAF2;
+}
+.out{
+    padding: 0 16px;
+}
+.DL{
+    background: #40AD87;
+    border-color: #40AD87;
+    border: 0px;
+    padding: 6px 20px;
+    border-radius: 9px;
+    color: white;
+}
+.DL:hover{
+    cursor: pointer;
+}
+.DL:focus{
+    outline: none;
+    box-shadow: 0 0 6px rgb(151, 242, 210);
+    border: 1px solid rgb(151, 242, 210);
+}
+.navbar-toggler-icon{
+    background-image: none !important;
+}
+.fa-bars{
+    font-size: 30px;
+    color: #40AD87;
+}
+
+@media screen and (max-width: 1240px){
+    .Flash{
+        width: 500px;
+    }
+    .House{
+        padding: 0 9px;
+    }
+}
+
+
+@media screen and (max-width: 1200px){
+    .Flash{
+        width: 515px;
+    }
+}
